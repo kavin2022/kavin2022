@@ -2,10 +2,11 @@
 
 I'm Kavin ,an aspiring Data Scientist . I spend most of time learning new things
 
-Reach me out :
+### Reach me out in:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin2022/)  [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kavin.work.2022@gmail.com)
 
+### About me
 
 - 🔭 I’m currently seeking roles as a Data Scientist / Analyst
 - 📓 I’m currently working on a personal project
