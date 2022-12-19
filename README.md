@@ -15,10 +15,11 @@ Reach me out :
 
 #### Technical skills
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)[<img align="left" alt="React" width="110px" src="https://matplotlib.org/_static/images/logo_dark.svg"/>](#)[![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](#)[<img align="left" alt="HTML5" width="110px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />](#)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)[<img align="left" alt="React" width="110px" src="https://matplotlib.org/_static/images/logo_dark.svg"/>](#)[<img align="left" alt="HTML5" width="110px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />](#)[![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kavin2022.kavin2022)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin2022&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="kavin2022" /></p>
+
